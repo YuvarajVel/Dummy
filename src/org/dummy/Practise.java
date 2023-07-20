@@ -4,7 +4,7 @@ public class Practise {
 private void git() {
        System.out.println("git");
 }
-private void sample() {
-	   System.out.println("sample");
+private void sampleOne() {
+	   System.out.println("sample one");
 }
 }
